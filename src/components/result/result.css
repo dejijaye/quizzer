@@ -1,0 +1,17 @@
+.qCard {
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid rgba(0,0,0,0.2);
+  margin: 10px;
+  text-align: left;
+  color: rgb(16, 84, 110);
+  background: rgb(240, 237, 237);
+}
+
+.right {
+  border-left: 4px solid #02eb8c;
+}
+
+.wrong {
+  border-left: 4px solid #fd3a2c;
+}
